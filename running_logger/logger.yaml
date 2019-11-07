@@ -1,0 +1,9 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: running_logger
+Main: logger.js
+Link: README.md
+Description: |
+    Output running logger
+Parameters:
+- none
